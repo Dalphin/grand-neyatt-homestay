@@ -1367,7 +1367,7 @@ section {
   margin-top: -60px;
   position: relative;
   padding-bottom: 0px;
-  background-color: #333333;
+  box-shadow: 0 2px 15px 1px rgba(0, 0, 0, 0.15);
 }
 .booking-form-home .thm-container {
   padding: 25px 45px;
